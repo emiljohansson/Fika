@@ -1,0 +1,23 @@
+{
+    "name": "Fika"
+  , "description": "This is a very simplistic app that enables you and your co-workers to arrange Fika meetings."
+  , "version": "1.0.1"
+  , "keywords": ["fika", "html", "css", "javascript", "coffee"]
+  , "homepage": "http://github.com/emiljohansson/Fika"
+  , "author": "Emil Johansson, Henrik Andersen"
+  , "scripts": {}
+  , "repository": {
+      "type": "git"
+    , "url": ""
+  }
+  , "licenses": [
+    {
+        "type": ""
+      , "url": ""
+    }
+  ]
+  , "devDependencies": {
+      "jquery": "1.7.1"
+    , "emiljohansson": "0.0.5"
+  }
+}
